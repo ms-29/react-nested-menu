@@ -1,0 +1,19 @@
+{
+  "name": "react-nested-menu",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ms-29/react-nested-menu.git"
+  },
+  "keywords": [
+    "react-nested-menu"
+  ],
+  "author": "Mahedi Sabuj",
+  "bugs": {
+    "url": "https://github.com/ms-29/react-nested-menu/issues"
+  },
+  "homepage": "https://github.com/ms-29/react-nested-menu#readme"
+}
